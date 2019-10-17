@@ -67,7 +67,7 @@ if (!empty($html)) {
 }
 else{
     header('HTTP/1.0 400 Bad Request'); 
-    $response = json_encode(array());
+    $response = json_encode(array("bad request"));
 }
 echo $response;
 
