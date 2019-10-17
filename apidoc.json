@@ -1,0 +1,7 @@
+{
+    "name": "currency api",
+    "version": "0.0.1",
+    "description": "current currency info",
+    "title": "Currency Api Docs",
+    "url" : "http://{base_url}/"
+}
