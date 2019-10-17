@@ -8,6 +8,12 @@
 ## Currency Coversion Request Format
 
 #### GET: `https://dry-cove-37966.herokuapp.com/?to=INR&from=USD&amt=247`
+
+#### Request Parameters
+-   `to` 
+-   `from`
+-   `amt`[Optional]
+
 ```json
 {
     "date": "2019-10-17",
